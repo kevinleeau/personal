@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    color: whitesmoke;
+}
+#welcome{
+    padding: 10rem;
+    background-color: #45567d;
+}
+.nav-item{
+    padding: 0 10px;
+}
+#my-project{
+    background-color: #303841;
+    padding: 100px 100px;
+}
+.img{
+    width: 90%;
+}
+.row{
+    padding: 5rem;
+}
+h4{
+    color: black;
+}
+#contact{
+    background-color: #45567d;
+    padding: 150px 150px;
+}
+.btn{
+    padding: 10px;
+
+}
